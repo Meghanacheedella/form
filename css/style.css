@@ -1,0 +1,28 @@
+.container{
+    width: 300px;
+    margin: 50px auto;
+}
+input{
+    width: 100%;
+    padding: 12px 18px;
+    margin: 4px 0px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+.btn{
+    background-color: black;
+    color: white;
+    margin: 4px 0px;
+    padding: 12px 14px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+.exists{
+    color: red;
+    background-color: rgb(247, 202, 202);
+    width: 125px;
+    margin: 50px auto;
+    padding: 10px 16px;
+    border-radius: 8px;
+}
